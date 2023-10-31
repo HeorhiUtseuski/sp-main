@@ -2,3 +2,4 @@ rootProject.name = 'sp-main'
 
 include 'sp-gateway'
 include 'sp-config-server'
+include 'sp-eureka-server'
