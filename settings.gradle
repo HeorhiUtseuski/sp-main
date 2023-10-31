@@ -1,2 +1,3 @@
 rootProject.name = 'sp-main'
 
+include 'sp-gateway'
